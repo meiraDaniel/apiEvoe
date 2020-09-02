@@ -7,7 +7,7 @@ realizar operações CRUD, nas atividades salvas.
 
 ## Instalação
 
-- Clone esse repositório no seu computador utilizando `https://github.com/meiraDaniel/testeEvoe` ou faça o download e a extração dos arquivos.
+- Clone esse repositório no seu computador utilizando `https://github.com/meiraDaniel/apiEvoe` ou faça o download e a extração dos arquivos.
 
 ---
 
