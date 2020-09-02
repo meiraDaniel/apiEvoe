@@ -1,7 +1,6 @@
-# To Do List API evoe
+# To Do List API Evoé
 
-Essa API foi desenvolvida utilizando Django e Django-Rest-Framework. Com essa API é possível o usuário realizar um cadastro, logar com seus dados, e utilizar o token gerado pelo Login para
-realizar operações CRUD, nas atividades salvas.
+Essa API foi desenvolvida utilizando Django e Django-Rest-Framework. Com essa API é possível o usuário realizar um cadastro, logar com seus dados, e utilizar o token gerado pelo Login para realizar operações CRUD, nas atividades salvas.
 
 ---
 
