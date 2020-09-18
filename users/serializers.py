@@ -2,7 +2,7 @@ from rest_framework import serializers
 from django.contrib.auth.models import User
 
 
-#Criando um seriliazer para o registro de um novo usuário no banco padrão User do Django.
+#Criando um serializer para o registro de um novo usuário no banco padrão User do Django.
 #Para se criar um novo usuário so é necessário o registro de username e password.
 class UserSerializer(serializers.ModelSerializer):
     class Meta:
